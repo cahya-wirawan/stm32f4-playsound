@@ -1,0 +1,15 @@
+/Debug
+/Release
+*.axf
+*.htm
+*.Inp
+*.map
+*.tra
+*.dep
+*.__i
+*.crf
+*.d
+*.o
+*.lst
+*.lnp
+*.bak

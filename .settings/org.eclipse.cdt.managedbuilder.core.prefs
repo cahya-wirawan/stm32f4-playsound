@@ -1,0 +1,22 @@
+#Tue Apr 24 23:39:30 CEST 2012
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/com.atollic.truestudio.configuration.release.1950720049/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.atollic.truestudio.configuration.release.1950720049/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.atollic.truestudio.configuration.release.1950720049/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.atollic.truestudio.configuration.release.1950720049/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.atollic.truestudio.configuration.release.1950720049/append=true
+environment/buildEnvironmentInclude/com.atollic.truestudio.configuration.release.1950720049/appendContributed=true
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.2006598947/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.2006598947/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.2006598947/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.2006598947/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.2006598947/append=true
+environment/buildEnvironmentInclude/com.atollic.truestudio.exe.debug.2006598947/appendContributed=true
+environment/buildEnvironmentLibrary/com.atollic.truestudio.configuration.release.1950720049/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.atollic.truestudio.configuration.release.1950720049/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.atollic.truestudio.configuration.release.1950720049/append=true
+environment/buildEnvironmentLibrary/com.atollic.truestudio.configuration.release.1950720049/appendContributed=true
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.2006598947/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.2006598947/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.2006598947/append=true
+environment/buildEnvironmentLibrary/com.atollic.truestudio.exe.debug.2006598947/appendContributed=true
