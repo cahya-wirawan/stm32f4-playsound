@@ -1,5 +1,6 @@
 /Debug
 /Release
+.DS_Store
 *.axf
 *.htm
 *.Inp
