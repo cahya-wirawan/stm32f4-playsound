@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>PlaySound 02</name>
+	<name>stm32f4-playsound</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -69,7 +69,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1381837336567</id>
+			<id>0</id>
 			<name></name>
 			<type>26</type>
 			<matcher>
